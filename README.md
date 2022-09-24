@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **recepilyasoglu/recepilyasoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,6 +16,3 @@ Here are some ideas to get you started:
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][https://www.linkedin.com/in/recep-ilyasoglu-842253182/]
 
 
-
-
--->
