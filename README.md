@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on Data Scientist or Machine Learning Engineer
 
 - 📩 Connect with me:
+- 
 <a href="https://www.instagram.com/recep.ilyasoglu/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <a href="https://www.linkedin.com/in/recep-ilyasoglu-842253182/">
